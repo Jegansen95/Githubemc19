@@ -1,1 +1,4 @@
 creates text1.txt
+ok
+i am done with the creatubg repostory
+by 20mar 2023
